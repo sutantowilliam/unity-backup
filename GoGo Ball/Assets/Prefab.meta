@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+fileFormatVersion: 2
+guid: a2a230a907aec394e8a5b30cc3d8c7e0
+folderAsset: yes
+timeCreated: 1520945781
+licenseType: Free
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+=======
+fileFormatVersion: 2
+<<<<<<< HEAD:GoGo Ball/Assets/Prefab.meta
+guid: a2a230a907aec394e8a5b30cc3d8c7e0
+folderAsset: yes
+timeCreated: 1520945781
+=======
+guid: d5bfbb371ba3a6d4e92e53c25c031ab4
+folderAsset: yes
+timeCreated: 1520857671
+>>>>>>> f28c67e4c23aa4922132a441d7b29459a4479089:GoGo Ball/Assets/Prefabs.meta
+licenseType: Free
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> bb917c5fb765385328bdc0b8241e4bf57e832e87

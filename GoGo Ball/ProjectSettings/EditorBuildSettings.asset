@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 965765c2cceb50c4e968ce0f44d7bbbf
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 334cfe0d8be820a40983be33ef6a735c
+  - enabled: 1
+    path: Assets/Scenes/BonusGame.unity
+    guid: 12f6b388e0a9462459f2aee06083827b
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 6a53f31588b289240b9fd3157a77dd23
+  - enabled: 1
+    path: Assets/Scenes/HighScore.unity
+    guid: c07fe5b5e3185a242808fcf74e90349a
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: eb8d7dc88fdd1724689fb9eae2cf77a7
+  - enabled: 1
+    path: Assets/Scenes/CobaPlayerPref.unity
+    guid: fd75f91db8be9d8478ff49b9c7df41e2

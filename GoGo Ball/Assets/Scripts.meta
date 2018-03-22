@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+fileFormatVersion: 2
+guid: 34f099be5d1880b4281965886dfa21a8
+folderAsset: yes
+timeCreated: 1520933066
+licenseType: Free
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+=======
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 34f099be5d1880b4281965886dfa21a8
+folderAsset: yes
+timeCreated: 1520933066
+=======
+guid: 8d942e1a52f893a43b8221781240b1e7
+folderAsset: yes
+timeCreated: 1520854706
+>>>>>>> f28c67e4c23aa4922132a441d7b29459a4479089
+licenseType: Free
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> bb917c5fb765385328bdc0b8241e4bf57e832e87
